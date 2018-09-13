@@ -1,0 +1,68 @@
+PODS:
+  - Alamofire (4.7.3)
+  - EFAutoScrollLabel (4.0.2)
+  - HandyJSON (4.1.3)
+  - JGProgressHUD (2.0.3)
+  - MJRefresh_Bell (3.1.0.2)
+  - Realm (3.7.5):
+    - Realm/Headers (= 3.7.5)
+  - Realm/Headers (3.7.5)
+  - RealmSwift (3.7.5):
+    - Realm (= 3.7.5)
+  - SDWebImage (5.0.0-beta):
+    - SDWebImage/Core (= 5.0.0-beta)
+  - SDWebImage/Core (5.0.0-beta)
+  - SnapKit (4.0.0)
+  - SwiftyJSON (4.1.0)
+  - XCDYouTubeKit (2.5.6)
+  - XCProgressHUD (0.0.2):
+    - JGProgressHUD (~> 2.0.2)
+  - YouTubePlayer (0.4.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - EFAutoScrollLabel (~> 4.0.2)
+  - HandyJSON (~> 4.1.3)
+  - MJRefresh_Bell (~> 3.1.0.2)
+  - RealmSwift (~> 3.7.5)
+  - SDWebImage (~> 5.0.0-beta)
+  - SnapKit (~> 4.0.0)
+  - SwiftyJSON (~> 4.0)
+  - XCDYouTubeKit (~> 2.5.6)
+  - XCProgressHUD (~> 0.0.2)
+  - YouTubePlayer
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - EFAutoScrollLabel
+    - HandyJSON
+    - JGProgressHUD
+    - MJRefresh_Bell
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - SnapKit
+    - SwiftyJSON
+    - XCDYouTubeKit
+    - XCProgressHUD
+    - YouTubePlayer
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  EFAutoScrollLabel: 0534a0535b5ab9131c939dcf45aaa9f398156e97
+  HandyJSON: bc81fbeb62d65ae5d5942ed29bc4a8265d18c1e8
+  JGProgressHUD: 12b20a8f4ffe05258f8635c1ab92816e451f904d
+  MJRefresh_Bell: dbe19a9ed58ed868d8bef1a488ec79196b94929f
+  Realm: c286caf4dbf346ce24aad49ca76c7ce622d4a082
+  RealmSwift: 2a9281e37d6de55f66f76254d49d28aeb1b729e4
+  SDWebImage: 55c787b164fabe07f2a4d5307f6e1be7960fb9be
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  XCDYouTubeKit: dccfe0c17dd5c5187969ec27e93069573badb08f
+  XCProgressHUD: 2f276124e3ab58da4e47fcc210f29623da3c5e05
+  YouTubePlayer: 028451f6772f372d4759866db99824c676ac1473
+
+PODFILE CHECKSUM: 1112984516673f92329bd83b746e76b38f156ce6
+
+COCOAPODS: 1.5.3

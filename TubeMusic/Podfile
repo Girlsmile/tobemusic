@@ -1,0 +1,32 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'TubeMusic' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+ pod 'SnapKit', '~> 4.0.0'
+ pod 'Alamofire', '~> 4.7'
+ pod 'SwiftyJSON', '~> 4.0'
+ pod 'HandyJSON', '~> 4.1.3'
+ pod 'SDWebImage', '~> 5.0.0-beta'
+ pod 'MJRefresh_Bell', '~> 3.1.0.2'
+ pod 'XCDYouTubeKit', '~> 2.5.6'
+ pod 'YouTubePlayer'
+ pod 'EFAutoScrollLabel', '~> 4.0.2'
+ pod 'XCProgressHUD', '~> 0.0.2'
+ pod 'RealmSwift', '~> 3.7.5'
+ 
+
+  # Pods for TubeMusic
+
+#  target 'TubeMusicTests' do
+#    inherit! :search_paths
+#    # Pods for testing
+#  end
+#
+#  target 'TubeMusicUITests' do
+#    inherit! :search_paths
+#    # Pods for testing
+#  end
+
+end
